@@ -1,4 +1,4 @@
-# Edit-Distance-Algorithms-in-C-
+# Edit-Distance-Algorithms-in-C++
 
 This project demonstrates four different approaches to computing the Edit Distance (Levenshtein Distance) between two strings:
 
